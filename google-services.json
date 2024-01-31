@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "185717798262",
+    "project_id": "tugas-mobprog-55e19",
+    "storage_bucket": "tugas-mobprog-55e19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185717798262:android:80354a52a0bf433f4a7657",
+        "android_client_info": {
+          "package_name": "com.example.inv_management"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNNA5-qjBkxkmJs4nPVgoJgoD7Mvr41ZA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
